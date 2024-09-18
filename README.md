@@ -3,7 +3,7 @@
 <h2>Computer Science Projects:</h2>
 
 - <b>Malware Analysis Lab</b>
-  - [Praciting DS & Algos in Python]()
+  - [Lab Write Up](https://github.com/atrioshka/Malware-Analysis-Lab)
 - <b>DevOps</b>
   - [Lamp Stack Deployment]() <b><i></b></i>
 - <b>Java</b>
