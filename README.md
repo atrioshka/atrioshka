@@ -5,9 +5,7 @@
 - <b>Malware Analysis Lab</b>
   - [Lab Write Up](https://github.com/atrioshka/Malware-Analysis-Lab)
 - <b>DevOps</b>
-  - [Lamp Stack Deployment]() <b><i></b></i>
-- <b>Java</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+  - [Lamp Stack Deployment](https://www.linkedin.com/in/ayla-rios/details/projects/) <b><i></b></i>
 
 
 
