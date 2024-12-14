@@ -8,7 +8,7 @@
   - [Lamp Stack Deployment](https://www.linkedin.com/in/ayla-rios/details/projects/) <b><i></b></i>
 - <b>Spring Boot</b>
   - [Java Springboot Backend](https://github.com/atrioshka/Back-End-Spring-Project) <b><i></b></i>
-- <b>2D RPG in C++</b>
+- <b>Game Development</b>
   - [2D RPG in C++ with SFML (In Progress)](https://github.com/atrioshka/rpg-game) <b><i></b></i>
   
 
