@@ -9,7 +9,7 @@
 - <b>Spring Boot</b>
   - [Java Springboot Backend](https://github.com/atrioshka/Back-End-Spring-Project) <b><i></b></i>
 - <b>2D RPG in C++</b>
-  - [In Progress](https://github.com/atrioshka/rpg-game) <b><i></b></i>
+  - [2D RPG in C++ with SFML (In Progress)](https://github.com/atrioshka/rpg-game) <b><i></b></i>
   
 
 
