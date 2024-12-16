@@ -11,7 +11,7 @@
 - <b>Graphics Programming (In Progress)</b>
   - [Ray Tracer from scratch in C++](https://github.com/atrioshka/RayTracer/tree/dev) <b><i></b></i>  
 - <b>Game Development (In Progress)</b>
-  - [2D RPG in C++ with SFML](https://github.com/atrioshka/rpg-game) <b><i></b></i>
+  - [2D RPG in C++ with SFML](https://github.com/atrioshka/rpg-game/tree/dev) <b><i></b></i>
 - <b>Malware Analysis Lab</b>
   - [Lab Write Up](https://github.com/atrioshka/Malware-Analysis-Lab)
 - <b>DevOps</b>
