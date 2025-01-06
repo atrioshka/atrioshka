@@ -5,6 +5,7 @@
   
 - <b>Spring Boot</b>
 
+(Project is private due to school guidelines, but available for hiring managers upon request)
    - [Java Springboot Backend](https://github.com/atrioshka/springboot-backend-project) <b><i></b></i>
 
 <h3>Personal:</h3><b>
